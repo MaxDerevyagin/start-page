@@ -13,26 +13,6 @@ body {
   margin: 0 auto;
 }
 
-@media (max-width: 480px) {
-  body {
-    padding: 15px;
-  }
-
-  .grid {
-    grid-template-columns: repeat(4, minmax(90px, 1fr));
-    max-width: 440px;
-    gap: 25px 15px;
-  }
-
-  .item {
-    width: 70px;
-  }
-
-  .item img {
-    width: 70px;
-  }
-} 
-
 .item {
   width: 90px;
   text-align: center;
@@ -47,6 +27,26 @@ body {
   transition: transform 0.2s;
   transform: scale(1);
 }
+
+@media (max-width: 480px) {
+  body {
+    padding: 15px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(4, minmax(90px, 1fr));
+    max-width: 440px;
+    gap: 25px 15px;
+  }
+
+  .item {
+    width: 80px;
+  }
+
+  .item img {
+    width: 80px;
+  }
+} 
 
 .item span {
   display: block;
