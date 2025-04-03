@@ -194,8 +194,7 @@
   {
     "title": "Amazon",
     "url": "https://www.amazon.ae",
-    "icon": "icons/icon_amazon.svg",
-    "mobileOnly": true
+    "icon": "icons/icon_amazon.svg"
   },
   {
     "title": "Альфа Онлайн",
@@ -212,8 +211,7 @@
   {
     "title": "ADIB Direct",
     "url": "https://adibdirect.com/iportalweb/iportal/jsps/orbilogin.jsp",
-    "icon": "icons/icon_adib.png",
-    "mobileOnly": true
+    "icon": "icons/icon_adib.png"
   },
   {
     "title": "AviaSales",
