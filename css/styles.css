@@ -35,7 +35,7 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-  gap: 35px 25px;
+  gap: 35px 0px;
   max-width: 1000px;
   margin: 0 auto;
   justify-content: center;
@@ -50,7 +50,7 @@ body {
     grid-template-columns: repeat(4, 1fr);
     max-width: 430px;
     margin: 0 auto;
-    gap: 15px 15px;
+    gap: 15px 0px;
   }
 
   .item {

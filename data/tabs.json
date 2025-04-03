@@ -16,7 +16,7 @@
   },
   {
     "title": "Яндекс Погода",
-    "url": "",
+    "url": "https://yandex.ru/pogoda/ru",
     "icon": "icons/icon_yandex_weather.svg" 
   },
   {
@@ -83,124 +83,124 @@
 
   {
     "title": "AppStore Connect",
-    "url": "",
+    "url": "https://appstoreconnect.apple.com",
     "icon": "icons/icon_app_store_connect.svg" 
   },
   {
-    "title": "Meta For Developers",
-    "url": "",
+    "title": "Meta for Developers",
+    "url": "https://developers.facebook.com/",
     "icon": "icons/icon_meta_developers.svg" 
   },
   {
     "title": "TeamCity",
-    "url": "",
+    "url": "https://hypercarrot.ngrok.dev",
     "icon": "icons/icon_team_city.svg" 
   },
   {
     "title": "App Distribution",
-    "url": "",
+    "url": "https://appdistribution.firebase.google.com/u/2/testerapps?pli=1",
     "icon": "icons/icon_app_distribution.svg" 
   },
   {
     "title": "Unity ID",
-    "url": "",
+    "url": "https://id.unity.com",
     "icon": "icons/icon_unity_id.svg" 
   },
   {
-    "title": "Unity Assets",
-    "url": "",
+    "title": "Assets Store",
+    "url": "https://assetstore.unity.com",
     "icon": "icons/icon_unity_asset_store.svg" 
   },
   {
     "title": "GameAnalytics",
-    "url": "",
+    "url": "https://go.gameanalytics.com/game/118237/realtime",
     "icon": "icons/icon_game_analytics.svg" 
   },
   {
     "title": "Firebase Console",
-    "url": "",
+    "url": "https://console.firebase.google.com",
     "icon": "icons/icon_firebase.svg" 
   },
 
   {
     "title": "AdMob",
-    "url": "",
+    "url": "https://admob.google.com",
     "icon": "icons/icon_admob.svg" 
   },
   {
     "title": "TestRail",
-    "url": "",
+    "url": "https://hypercarrot.testrail.io",
     "icon": "icons/icon_test_rail.svg" 
   },
   {
     "title": "Figma",
-    "url": "",
+    "url": "https://www.figma.com",
     "icon": "icons/icon_figma.svg" 
   },
   {
     "title": "ChatGPT",
-    "url": "",
+    "url": "https://chat.openai.com",
     "icon": "icons/icon_chat_gpt.svg" 
   },
   {
     "title": "Grok",
-    "url": "",
+    "url": "https://grok.com",
     "icon": "icons/icon_grok.svg" 
   },
   {
     "title": "Midjourney",
-    "url": "",
+    "url": "https://www.midjourney.com/app/",
     "icon": "icons/icon_midjourney.svg" 
   },
   {
-    "title": "Magnific",
-    "url": "",
+    "title": "Magnific AI",
+    "url": "https://magnific.ai",
     "icon": "icons/icon_magnific.svg" 
   },
   {
-    "title": "Magnific",
-    "url": "",
+    "title": "Mixamo",
+    "url": "https://www.mixamo.com",
     "icon": "icons/icon_mixamo.svg" 
   },
   {
     "title": "Sketchfab",
-    "url": "",
+    "url": "https://sketchfab.com",
     "icon": "icons/icon_sketchfab.svg" 
   },
 
   {
     "title": "Discord",
-    "url": "",
+    "url": "https://discord.com",
     "icon": "icons/icon_discord.svg" 
   },
   {
     "title": "Amazon",
-    "url": "",
+    "url": "https://www.amazon.ae",
     "icon": "icons/icon_amazon.svg" 
   },
   {
     "title": "Альфа Онлайн",
-    "url": "",
+    "url": "https://alfabank.ru/everyday/online/alfaonline/",
     "icon": "icons/icon_alfa_bank.svg" 
   },
   {
     "title": "Сбербанк Онлайн",
-    "url": "",
+    "url": "http://www.sberbank.ru",
     "icon": "icons/icon_sber_bank.svg" 
   },
   {
     "title": "ADIB Direct",
-    "url": "",
+    "url": "https://adibdirect.com/iportalweb/iportal/jsps/orbilogin.jsp",
     "icon": "icons/icon_adib.svg" 
   },
   {
     "title": "AviaSales",
-    "url": "",
+    "url": "https://www.aviasales.ru",
     "icon": "icons/icon_aviasales.svg" 
   },
   {
     "title": "Booking",
-    "url": "",
+    "url": "https://www.booking.com",
     "icon": "icons/icon_booking.svg" 
   }
 ]
