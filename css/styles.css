@@ -27,6 +27,10 @@ body {
   .item {
     width: 80px;
   }
+  
+  .item img {
+    width: 80px;
+  }
 } 
 
 .item {
