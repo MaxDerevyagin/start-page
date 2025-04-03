@@ -1,6 +1,11 @@
+html {
+  background: transparent;
+}
+
 body {
   margin: 0;
   padding: 50px;
+  background: transparent;
   font-family: sans-serif;
 }
 
