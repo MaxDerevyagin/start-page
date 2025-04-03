@@ -2,205 +2,205 @@
   {
     "title": "Gmail #",
     "url": "https://mail.google.com",
-    "icon": "icons/icon_gmail.png" 
+    "icon": "icons/icon_gmail.svg" 
   },
   {
     "title": "Google Maps",
      "url": "https://www.google.ru/maps/",
-     "icon": "icons/icon_google_maps.png" 
+     "icon": "icons/icon_google_maps.svg" 
   },
   {
     "title": "Яндекс Переводчик",
     "url": "",
-    "icon": "icons/icon_yandex_translate.png" 
+    "icon": "icons/icon_yandex_translate.svg" 
   },
   {
     "title": "Яндекс Погода",
     "url": "",
-    "icon": "icons/icon_yandex_weather.png" 
+    "icon": "icons/icon_yandex_weather.svg" 
   },
   {
     "title": "YouTube",
     "url": "https://youtube.com",
-    "icon": "icons/icon_youtube.png" 
+    "icon": "icons/icon_youtube.svg" 
   },
   {
     "title": "YouTube Music",
     "url": "",
-    "icon": "icons/icon_youtube_music.png" 
+    "icon": "icons/icon_youtube_music.svg" 
   },
   {
     "title": "Slack",
     "url": "",
-    "icon": "icons/icon_slack.png" 
+    "icon": "icons/icon_slack.svg" 
   },
   {
     "title": "Pinterest",
     "url": "",
-    "icon": "icons/icon_pinterest.png" 
+    "icon": "icons/icon_pinterest.svg" 
   },
 
   {
     "title": "Google Drive",
     "url": "https://drive.google.com/drive/u/0/my-drive",
-    "icon": "icons/icon_google_drive.png" 
+    "icon": "icons/icon_google_drive.svg" 
   },
   {
     "title": "Google Docs",
     "url": "",
-    "icon": "icons/icon_google_docs.png" 
+    "icon": "icons/icon_google_docs.svg" 
   },
   {
     "title": "Google Sheets",
     "url": "",
-    "icon": "icons/icon_google_sheets.png" 
+    "icon": "icons/icon_google_sheets.svg" 
   },
   {
     "title": "Jira",
     "url": "",
-    "icon": "icons/icon_jira.png" 
+    "icon": "icons/icon_jira.svg" 
   },
   {
     "title": "Confluence",
     "url": "",
-    "icon": "icons/icon_confluence.png" 
+    "icon": "icons/icon_confluence.svg" 
   },
   {
     "title": "Bitbucket",
     "url": "",
-    "icon": "icons/icon_bitbucket.png" 
+    "icon": "icons/icon_bitbucket.svg" 
   },
   {
     "title": "Developer Console",
     "url": "",
-    "icon": "icons/icon_developer_console.png" 
+    "icon": "icons/icon_developer_console.svg" 
   },
   {
     "title": "Apple Developer",
     "url": "",
-    "icon": "icons/icon_apple_developer.png" 
+    "icon": "icons/icon_apple_developer.svg" 
   },
 
   {
     "title": "AppStore Connect",
     "url": "",
-    "icon": "icons/icon_app_store_connect.png" 
+    "icon": "icons/icon_app_store_connect.svg" 
   },
   {
     "title": "Meta For Developers",
     "url": "",
-    "icon": "icons/icon_meta_developers.png" 
+    "icon": "icons/icon_meta_developers.svg" 
   },
   {
     "title": "TeamCity",
     "url": "",
-    "icon": "icons/icon_team_city.png" 
+    "icon": "icons/icon_team_city.svg" 
   },
   {
     "title": "App Distribution",
     "url": "",
-    "icon": "icons/icon_app_distribution.png" 
+    "icon": "icons/icon_app_distribution.svg" 
   },
   {
     "title": "Unity ID",
     "url": "",
-    "icon": "icons/icon_unity_id.png" 
+    "icon": "icons/icon_unity_id.svg" 
   },
   {
     "title": "Unity Assets",
     "url": "",
-    "icon": "icons/icon_unity_asset_store.png" 
+    "icon": "icons/icon_unity_asset_store.svg" 
   },
   {
     "title": "GameAnalytics",
     "url": "",
-    "icon": "icons/icon_game_analytics.png" 
+    "icon": "icons/icon_game_analytics.svg" 
   },
   {
     "title": "Firebase Console",
     "url": "",
-    "icon": "icons/icon_firebase.png" 
+    "icon": "icons/icon_firebase.svg" 
   },
 
   {
     "title": "AdMob",
     "url": "",
-    "icon": "icons/icon_admob.png" 
+    "icon": "icons/icon_admob.svg" 
   },
   {
     "title": "TestRail",
     "url": "",
-    "icon": "icons/icon_test_rail.png" 
+    "icon": "icons/icon_test_rail.svg" 
   },
   {
     "title": "Figma",
     "url": "",
-    "icon": "icons/icon_figma.png" 
+    "icon": "icons/icon_figma.svg" 
   },
   {
     "title": "ChatGPT",
     "url": "",
-    "icon": "icons/icon_chat_gpt.png" 
+    "icon": "icons/icon_chat_gpt.svg" 
   },
   {
     "title": "Grok",
     "url": "",
-    "icon": "icons/icon_grok.png" 
+    "icon": "icons/icon_grok.svg" 
   },
   {
     "title": "Midjourney",
     "url": "",
-    "icon": "icons/icon_midjourney.png" 
+    "icon": "icons/icon_midjourney.svg" 
   },
   {
     "title": "Magnific",
     "url": "",
-    "icon": "icons/icon_magnific.png" 
+    "icon": "icons/icon_magnific.svg" 
   },
   {
     "title": "Magnific",
     "url": "",
-    "icon": "icons/icon_mixamo.png" 
+    "icon": "icons/icon_mixamo.svg" 
   },
   {
     "title": "Sketchfab",
     "url": "",
-    "icon": "icons/icon_sketchfab.png" 
+    "icon": "icons/icon_sketchfab.svg" 
   },
 
   {
     "title": "Discord",
     "url": "",
-    "icon": "icons/icon_discord.png" 
+    "icon": "icons/icon_discord.svg" 
   },
   {
     "title": "Amazon",
     "url": "",
-    "icon": "icons/icon_amazon.png" 
+    "icon": "icons/icon_amazon.svg" 
   },
   {
     "title": "Альфа Онлайн",
     "url": "",
-    "icon": "icons/icon_alfa_bank.png" 
+    "icon": "icons/icon_alfa_bank.svg" 
   },
   {
     "title": "Сбербанк Онлайн",
     "url": "",
-    "icon": "icons/icon_sber_bank.png" 
+    "icon": "icons/icon_sber_bank.svg" 
   },
   {
     "title": "ADIB Direct",
     "url": "",
-    "icon": "icons/icon_adib.png" 
+    "icon": "icons/icon_adib.svg" 
   },
   {
     "title": "AviaSales",
     "url": "",
-    "icon": "icons/icon_aviasales.png" 
+    "icon": "icons/icon_aviasales.svg" 
   },
   {
     "title": "Booking",
     "url": "",
-    "icon": "icons/icon_booking.png" 
+    "icon": "icons/icon_booking.svg" 
   }
 ]
