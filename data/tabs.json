@@ -12,12 +12,12 @@
   {
     "title": "Яндекс Переводчик",
     "url": "https://translate.yandex.ru",
-    "icon": "icons/icon_yandex_translate.svg" 
+    "icon": "icons/icon_yandex_translate.png" 
   },
   {
     "title": "Яндекс Погода",
     "url": "https://yandex.ru/pogoda/ru",
-    "icon": "icons/icon_yandex_weather.svg" 
+    "icon": "icons/icon_yandex_weather.png" 
   },
   {
     "title": "YouTube",
@@ -155,12 +155,12 @@
   {
     "title": "Magnific AI",
     "url": "https://magnific.ai",
-    "icon": "icons/icon_magnific.svg" 
+    "icon": "icons/icon_magnific.png" 
   },
   {
     "title": "Mixamo",
     "url": "https://www.mixamo.com",
-    "icon": "icons/icon_mixamo.svg" 
+    "icon": "icons/icon_mixamo.png" 
   },
   {
     "title": "Sketchfab",
@@ -191,7 +191,7 @@
   {
     "title": "ADIB Direct",
     "url": "https://adibdirect.com/iportalweb/iportal/jsps/orbilogin.jsp",
-    "icon": "icons/icon_adib.svg" 
+    "icon": "icons/icon_adib.png" 
   },
   {
     "title": "AviaSales",
