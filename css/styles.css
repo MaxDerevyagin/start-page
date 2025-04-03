@@ -1,5 +1,5 @@
 html {
-  background: #3BC381;
+  background: #1A81AC;
 }
 
 body {
@@ -19,7 +19,7 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(to bottom, #3BC381, #00ADA3, #0072D1);
+  background: linear-gradient(to bottom, #1A81AC, #0B48A3);
   z-index: -1;
   pointer-events: none;
 }
