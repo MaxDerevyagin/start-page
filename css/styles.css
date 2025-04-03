@@ -2,10 +2,18 @@ body {
   margin: 0;
   padding: 50px;
   font-family: sans-serif;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
   background: linear-gradient(to bottom, #3BB96D, #00A38F, #0068BD);
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
+  z-index: -1;
+  pointer-events: none;
 }
 
 .item {
