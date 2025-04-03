@@ -38,6 +38,7 @@ body {
   gap: 35px 25px;
   max-width: 1000px;
   margin: 0 auto;
+  justify-content: center;
 }
 
 @media (max-width: 430px) {

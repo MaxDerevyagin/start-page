@@ -1,6 +1,6 @@
 [
   {
-    "title": "Gmail 1",
+    "title": "Gmail",
     "url": "https://mail.google.com",
     "icon": "icons/icon_gmail.svg" 
   },
@@ -11,7 +11,7 @@
   },
   {
     "title": "Яндекс Переводчик",
-    "url": "",
+    "url": "https://translate.yandex.ru",
     "icon": "icons/icon_yandex_translate.svg" 
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "title": "YouTube Music",
-    "url": "",
+    "url": "https://music.youtube.com",
     "icon": "icons/icon_youtube_music.svg" 
   },
   {
     "title": "Slack",
-    "url": "",
+    "url": "https://hypercarrotgames.slack.com",
     "icon": "icons/icon_slack.svg" 
   },
   {
     "title": "Pinterest",
-    "url": "",
+    "url": "https://pinterest.com",
     "icon": "icons/icon_pinterest.svg" 
   },
 
@@ -47,37 +47,37 @@
   },
   {
     "title": "Google Docs",
-    "url": "",
+    "url": "https://docs.google.com/document/u/0/",
     "icon": "icons/icon_google_docs.svg" 
   },
   {
     "title": "Google Sheets",
-    "url": "",
+    "url": "https://docs.google.com/spreadsheets/u/0/",
     "icon": "icons/icon_google_sheets.svg" 
   },
   {
     "title": "Jira",
-    "url": "",
+    "url": "https://hypercarrot.atlassian.net/jira/dashboards/10001",
     "icon": "icons/icon_jira.svg" 
   },
   {
     "title": "Confluence",
-    "url": "",
+    "url": "https://hypercarrot.atlassian.net/wiki/spaces/HYPERCARRO/overview",
     "icon": "icons/icon_confluence.svg" 
   },
   {
     "title": "Bitbucket",
-    "url": "",
+    "url": "https://bitbucket.org/hyper-carrot",
     "icon": "icons/icon_bitbucket.svg" 
   },
   {
     "title": "Developer Console",
-    "url": "",
+    "url": "https://play.google.com/console/u/0/developers/7539948275575494304/app-list",
     "icon": "icons/icon_developer_console.svg" 
   },
   {
     "title": "Apple Developer",
-    "url": "",
+    "url": "https://developer.apple.com/account/#/overview/QUP3ZW622V",
     "icon": "icons/icon_apple_developer.svg" 
   },
 
