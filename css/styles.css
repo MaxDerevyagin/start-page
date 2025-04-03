@@ -11,17 +11,19 @@ body {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   gap: 35px 25px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
 @media (max-width: 480px) {
   .grid {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, minmax(90px, 1fr));
   }
 } 
 
 .item {
-  width: 90px;
+  width: 100%;
+  max-width: 90px;
   text-align: center;
   text-decoration: none;
   color: #ffffff;
