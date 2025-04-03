@@ -8,21 +8,20 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  max-width: calc(900px);
-  gap: 20px 10px;
+  max-width: calc(1000px);
+  gap: 35px 25px;
   margin: 0 auto;
 }
 
 .item {
-  width: 100px;
+  width: 90px;
   text-align: center;
   text-decoration: none;
   color: #ffffff;
 }
 
 .item img {
-  width: 80px;
-  height: 80px;
+  width: 90px;
   display: block;
   margin: 0 auto 12px auto;
   transition: transform 0.2s;
