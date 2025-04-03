@@ -17,7 +17,7 @@ body {
 
 @media (max-width: 480px) {
   .grid {
-    max-width: calc(400);
+    max-width: calc(400px);
   }
 }
 
