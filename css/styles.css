@@ -36,7 +36,7 @@ body {
   .grid {
     grid-template-columns: repeat(4, minmax(90px, 1fr));
     max-width: 440px;
-    gap: 25px 15px;
+    gap: 15px 15px;
   }
 
   .item {
