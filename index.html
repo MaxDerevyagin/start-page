@@ -16,9 +16,15 @@
         const response = await fetch('data/tabs.json');
         const tabs = await response.json();
         const grid = document.getElementById('grid');
+        const isIphone = navigator.userAgent.includes('iPhone');
 
         tabs.forEach(tab => 
         {
+          if (isIphone && !tab.mobileOnly)
+          {
+            return;
+          }
+
           const a = document.createElement('a');
           a.href = tab.url;
           a.className = 'item';

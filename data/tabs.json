@@ -22,7 +22,8 @@
   {
     "title": "YouTube",
     "url": "https://youtube.com",
-    "icon": "icons/icon_youtube.svg" 
+    "icon": "icons/icon_youtube.svg",
+    "mobileOnly": true
   },
   {
     "title": "YouTube Music",
@@ -58,12 +59,14 @@
   {
     "title": "Bitbucket",
     "url": "https://bitbucket.org/hyper-carrot",
-    "icon": "icons/icon_bitbucket.svg" 
+    "icon": "icons/icon_bitbucket.svg",
+    "mobileOnly": true
   },
   {
     "title": "Jira",
     "url": "https://hypercarrot.atlassian.net/jira/dashboards/10001",
-    "icon": "icons/icon_jira.svg" 
+    "icon": "icons/icon_jira.svg",
+    "mobileOnly": true
   },
   {
     "title": "Confluence",
@@ -73,64 +76,76 @@
   {
     "title": "Developer Console",
     "url": "https://play.google.com/console/u/0/developers/7539948275575494304/app-list",
-    "icon": "icons/icon_developer_console.svg" 
+    "icon": "icons/icon_developer_console.svg",
+    "mobileOnly": true
   },
   {
     "title": "Apple Developer",
     "url": "https://developer.apple.com/account/#/overview/QUP3ZW622V",
-    "icon": "icons/icon_apple_developer.svg" 
+    "icon": "icons/icon_apple_developer.svg",
+    "mobileOnly": true
   },
 
   {
     "title": "AppStore Connect",
     "url": "https://appstoreconnect.apple.com",
-    "icon": "icons/icon_app_store_connect.svg" 
+    "icon": "icons/icon_app_store_connect.svg",
+    "mobileOnly": true
   },
   {
     "title": "Meta for Developers",
     "url": "https://developers.facebook.com/",
-    "icon": "icons/icon_meta_developers.svg" 
+    "icon": "icons/icon_meta_developers.svg",
+    "mobileOnly": true
   },
   {
     "title": "TeamCity",
     "url": "https://hypercarrot.ngrok.dev",
-    "icon": "icons/icon_team_city.svg" 
+    "icon": "icons/icon_team_city.svg",
+    "mobileOnly": true
   },
   {
     "title": "App Distribution",
     "url": "https://appdistribution.firebase.google.com/u/2/testerapps?pli=1",
-    "icon": "icons/icon_app_distribution.svg" 
+    "icon": "icons/icon_app_distribution.svg",
+    "mobileOnly": true
   },
   {
     "title": "Unity ID",
     "url": "https://id.unity.com",
-    "icon": "icons/icon_unity_id.svg" 
+    "icon": "icons/icon_unity_id.svg",
+    "mobileOnly": true
   },
   {
     "title": "Assets Store",
     "url": "https://assetstore.unity.com",
-    "icon": "icons/icon_unity_asset_store.svg" 
+    "icon": "icons/icon_unity_asset_store.svg",
+    "mobileOnly": true
   },
   {
     "title": "GameAnalytics",
     "url": "https://go.gameanalytics.com/game/118237/realtime",
-    "icon": "icons/icon_game_analytics.svg" 
+    "icon": "icons/icon_game_analytics.svg",
+    "mobileOnly": true
   },
   {
     "title": "Firebase Console",
     "url": "https://console.firebase.google.com",
-    "icon": "icons/icon_firebase.svg" 
+    "icon": "icons/icon_firebase.svg",
+    "mobileOnly": true
   },
 
   {
     "title": "AdMob",
     "url": "https://admob.google.com",
-    "icon": "icons/icon_admob.svg" 
+    "icon": "icons/icon_admob.svg",
+    "mobileOnly": true
   },
   {
     "title": "TestRail",
     "url": "https://hypercarrot.testrail.io",
-    "icon": "icons/icon_test_rail.svg" 
+    "icon": "icons/icon_test_rail.svg",
+    "mobileOnly": true
   },
   {
     "title": "Figma",
@@ -150,12 +165,14 @@
   {
     "title": "Midjourney",
     "url": "https://www.midjourney.com/app/",
-    "icon": "icons/icon_midjourney.svg" 
+    "icon": "icons/icon_midjourney.svg",
+    "mobileOnly": true
   },
   {
     "title": "Magnific AI",
     "url": "https://magnific.ai",
-    "icon": "icons/icon_magnific.png" 
+    "icon": "icons/icon_magnific.png",
+    "mobileOnly": true
   },
   {
     "title": "Mixamo",
@@ -165,7 +182,8 @@
   {
     "title": "Sketchfab",
     "url": "https://sketchfab.com",
-    "icon": "icons/icon_sketchfab.svg" 
+    "icon": "icons/icon_sketchfab.svg",
+    "mobileOnly": true
   },
 
   {
@@ -176,22 +194,26 @@
   {
     "title": "Amazon",
     "url": "https://www.amazon.ae",
-    "icon": "icons/icon_amazon.svg" 
+    "icon": "icons/icon_amazon.svg",
+    "mobileOnly": true
   },
   {
     "title": "Альфа Онлайн",
     "url": "https://alfabank.ru/everyday/online/alfaonline/",
-    "icon": "icons/icon_alfa_bank.svg" 
+    "icon": "icons/icon_alfa_bank.svg",
+    "mobileOnly": true
   },
   {
     "title": "Сбербанк Онлайн",
     "url": "http://www.sberbank.ru",
-    "icon": "icons/icon_sber_bank.svg" 
+    "icon": "icons/icon_sber_bank.svg",
+    "mobileOnly": true
   },
   {
     "title": "ADIB Direct",
     "url": "https://adibdirect.com/iportalweb/iportal/jsps/orbilogin.jsp",
-    "icon": "icons/icon_adib.png" 
+    "icon": "icons/icon_adib.png",
+    "mobileOnly": true
   },
   {
     "title": "AviaSales",
