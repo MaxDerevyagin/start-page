@@ -56,6 +56,11 @@
     "icon": "icons/icon_google_sheets.svg" 
   },
   {
+    "title": "Bitbucket",
+    "url": "https://bitbucket.org/hyper-carrot",
+    "icon": "icons/icon_bitbucket.svg" 
+  },
+  {
     "title": "Jira",
     "url": "https://hypercarrot.atlassian.net/jira/dashboards/10001",
     "icon": "icons/icon_jira.svg" 
@@ -64,11 +69,6 @@
     "title": "Confluence",
     "url": "https://hypercarrot.atlassian.net/wiki/spaces/HYPERCARRO/overview",
     "icon": "icons/icon_confluence.svg" 
-  },
-  {
-    "title": "Bitbucket",
-    "url": "https://bitbucket.org/hyper-carrot",
-    "icon": "icons/icon_bitbucket.svg" 
   },
   {
     "title": "Developer Console",
