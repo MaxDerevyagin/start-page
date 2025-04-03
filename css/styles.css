@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  padding-top: 50px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding: 50px;
   font-family: sans-serif;
   background: #114C7C;
 }
@@ -16,8 +14,13 @@ body {
 }
 
 @media (max-width: 480px) {
+  body {
+    padding: 20px;
+  }
+
   .grid {
     grid-template-columns: repeat(4, minmax(90px, 1fr));
+    max-width: 440px;
   }
 } 
 
