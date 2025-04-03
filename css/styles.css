@@ -16,8 +16,7 @@ body {
 
 @media (max-width: 480px) {
   .grid {
-    grid-template-columns: repeat(4, minmax(100px, 1fr));
-    max-width: 475px;
+    grid-template-columns: repeat(4, 1fr);
   }
 } 
 
