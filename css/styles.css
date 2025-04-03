@@ -15,9 +15,15 @@ body {
   margin: 0 auto;
 }
 
+@media (max-width: 430px) {
+  .grid {
+    max-width: calc(300px);
+  }
+}
+
 @media (max-width: 480px) {
   .grid {
-    max-width: calc(400px);
+    max-width: calc(300px);
   }
 }
 
