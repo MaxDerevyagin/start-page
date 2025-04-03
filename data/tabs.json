@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Gmail",
+    "url": "https://mail.google.com",
+    "icon": "icons/icon_gmail.png" 
+  },
+  {
+    "title": "Google Maps",
+     "url": "https://www.google.ru/maps/",
+     "icon": "icons/icon_google_maps.png" 
+  },
+  {
+    "title": "Яндекс Переводчик",
+    "url": "",
+    "icon": "icons/icon_yandex_translate.png" 
+  },
+  {
+    "title": "Яндекс Погода",
+    "url": "",
+    "icon": "icons/icon_yandex_weather.png" 
+  },
+  {
+    "title": "YouTube",
+    "url": "https://youtube.com",
+    "icon": "icons/icon_youtube.png" 
+  },
+  {
+    "title": "YouTube Music",
+    "url": "",
+    "icon": "icons/icon_youtube_music.png" 
+  },
+  {
+    "title": "Slack",
+    "url": "",
+    "icon": "icons/icon_slack.png" 
+  },
+  {
+    "title": "Pinterest",
+    "url": "",
+    "icon": "icons/icon_pinterest.png" 
+  },
+
+  {
+    "title": "Google Drive",
+    "url": "https://drive.google.com/drive/u/0/my-drive",
+    "icon": "icons/icon_google_drive.png" 
+  },
+  {
+    "title": "Google Docs",
+    "url": "",
+    "icon": "icons/icon_google_docs.png" 
+  },
+  {
+    "title": "Google Sheets",
+    "url": "",
+    "icon": "icons/icon_google_sheets.png" 
+  },
+  {
+    "title": "Jira",
+    "url": "",
+    "icon": "icons/icon_jira.png" 
+  },
+  {
+    "title": "Confluence",
+    "url": "",
+    "icon": "icons/icon_confluence.png" 
+  },
+  {
+    "title": "Bitbucket",
+    "url": "",
+    "icon": "icons/icon_bitbucket.png" 
+  },
+  {
+    "title": "Developer Console",
+    "url": "",
+    "icon": "icons/icon_developer_console.png" 
+  },
+  {
+    "title": "Apple Developer",
+    "url": "",
+    "icon": "icons/icon_apple_developer.png" 
+  },
+
+  {
+    "title": "AppStore Connect",
+    "url": "",
+    "icon": "icons/icon_app_store_connect.png" 
+  },
+  {
+    "title": "Meta For Developers",
+    "url": "",
+    "icon": "icons/icon_meta_developers.png" 
+  },
+  {
+    "title": "TeamCity",
+    "url": "",
+    "icon": "icons/icon_team_city.png" 
+  },
+  {
+    "title": "App Distribution",
+    "url": "",
+    "icon": "icons/icon_app_distribution.png" 
+  },
+  {
+    "title": "Unity ID",
+    "url": "",
+    "icon": "icons/icon_unity_id.png" 
+  },
+  {
+    "title": "Unity Assets",
+    "url": "",
+    "icon": "icons/icon_unity_asset_store.png" 
+  },
+  {
+    "title": "GameAnalytics",
+    "url": "",
+    "icon": "icons/icon_game_analytics.png" 
+  },
+  {
+    "title": "Firebase Console",
+    "url": "",
+    "icon": "icons/icon_firebase.png" 
+  },
+
+  {
+    "title": "AdMob",
+    "url": "",
+    "icon": "icons/icon_admob.png" 
+  },
+  {
+    "title": "TestRail",
+    "url": "",
+    "icon": "icons/icon_test_rail.png" 
+  },
+  {
+    "title": "Figma",
+    "url": "",
+    "icon": "icons/icon_figma.png" 
+  },
+  {
+    "title": "ChatGPT",
+    "url": "",
+    "icon": "icons/icon_chat_gpt.png" 
+  },
+  {
+    "title": "Grok",
+    "url": "",
+    "icon": "icons/icon_grok.png" 
+  },
+  {
+    "title": "Midjourney",
+    "url": "",
+    "icon": "icons/icon_midjourney.png" 
+  },
+  {
+    "title": "Magnific",
+    "url": "",
+    "icon": "icons/icon_magnific.png" 
+  },
+  {
+    "title": "Magnific",
+    "url": "",
+    "icon": "icons/icon_mixamo.png" 
+  },
+  {
+    "title": "Sketchfab",
+    "url": "",
+    "icon": "icons/icon_sketchfab.png" 
+  },
+
+  {
+    "title": "Discord",
+    "url": "",
+    "icon": "icons/icon_discord.png" 
+  },
+  {
+    "title": "Amazon",
+    "url": "",
+    "icon": "icons/icon_amazon.png" 
+  },
+  {
+    "title": "Альфа Онлайн",
+    "url": "",
+    "icon": "icons/icon_alfa_bank.png" 
+  },
+  {
+    "title": "Сбербанк Онлайн",
+    "url": "",
+    "icon": "icons/icon_sber_bank.png" 
+  },
+  {
+    "title": "ADIB Direct",
+    "url": "",
+    "icon": "icons/icon_adib.png" 
+  },
+  {
+    "title": "AviaSales",
+    "url": "",
+    "icon": "icons/icon_aviasales.png" 
+  },
+  {
+    "title": "Booking",
+    "url": "",
+    "icon": "icons/icon_booking.png" 
+  }
+]
