@@ -2,7 +2,10 @@ body {
   margin: 0;
   padding: 50px;
   font-family: sans-serif;
-  background: #114C7C;
+  background: linear-gradient(to bottom, #3BB96D, #00A38F, #0068BD);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .item {
@@ -20,6 +23,10 @@ body {
   margin: 0 auto 12px auto;
   transition: transform 0.2s;
   transform: scale(1);
+  overflow: hidden;
+  border-radius: 25px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
 }
 
 .item span {
@@ -30,6 +37,7 @@ body {
 .item:hover img {
   transform: scale(1.1);
   transition: transform 0.2s;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
 }
 
 .grid {
