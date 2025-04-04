@@ -222,5 +222,22 @@
     "title": "Booking",
     "url": "https://www.booking.com",
     "icon": "icons/icon_booking.svg" 
+  },
+  {
+    "title": "КиноПоиск",
+    "url": "https://www.kinopoisk.ru",
+    "icon": "icons/icon_kino_poisk.svg" 
+  },
+  {
+    "title": "AppMagic",
+    "url": "https://appmagic.rocks",
+    "icon": "icons/icon_app_magic.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "App2Top",
+    "url": "https://www.app2top.ru",
+    "icon": "icons/icon_app2top.svg",
+    "mobileOnly": true
   }
 ]
