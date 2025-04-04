@@ -98,12 +98,6 @@
     "mobileOnly": true
   },
   {
-    "title": "Meta for Developers",
-    "url": "https://developers.facebook.com/",
-    "icon": "icons/icon_meta_developers.svg",
-    "mobileOnly": true
-  },
-  {
     "title": "TeamCity",
     "url": "https://hypercarrot.ngrok.dev",
     "icon": "icons/icon_team_city.svg",
@@ -144,6 +138,12 @@
     "title": "AdMob",
     "url": "https://admob.google.com",
     "icon": "icons/icon_admob.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "Meta for Developers",
+    "url": "https://developers.facebook.com/",
+    "icon": "icons/icon_meta_developers.svg",
     "mobileOnly": true
   },
   {
