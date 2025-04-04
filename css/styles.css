@@ -36,7 +36,7 @@ body::before {
   width: 90px;
   display: block;
   margin: 0 auto 8px auto;
-  border-radius: 30% / 20%;
+  border-radius: 30% / 28%;
   transition: transform 0.2s;
   transform: scale(1);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
