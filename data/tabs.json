@@ -203,11 +203,6 @@
     "icon": "icons/icon_discord.svg" 
   },
   {
-    "title": "Amazon",
-    "url": "https://www.amazon.ae",
-    "icon": "icons/icon_amazon.svg"
-  },
-  {
     "title": "Альфа Онлайн",
     "url": "https://alfabank.ru/everyday/online/alfaonline/",
     "icon": "icons/icon_alfa_bank.svg",
@@ -233,6 +228,11 @@
     "title": "Booking",
     "url": "https://www.booking.com",
     "icon": "icons/icon_booking.svg" 
+  },
+  {
+    "title": "Amazon",
+    "url": "https://www.amazon.ae",
+    "icon": "icons/icon_amazon.svg"
   },
   {
     "title": "AppMagic",
