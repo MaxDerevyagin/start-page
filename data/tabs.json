@@ -40,6 +40,11 @@
     "url": "https://pinterest.com",
     "icon": "icons/icon_pinterest.svg" 
   },
+  {
+    "title": "КиноПоиск",
+    "url": "https://www.kinopoisk.ru",
+    "icon": "icons/icon_kino_poisk.svg" 
+  },
 
   {
     "title": "Google Drive",
@@ -175,6 +180,12 @@
     "mobileOnly": true
   },
   {
+    "title": "UDIO",
+    "url": "https://udio.com",
+    "icon": "icons/icon_udio.png",
+    "mobileOnly": true
+  },
+  {
     "title": "Mixamo",
     "url": "https://www.mixamo.com",
     "icon": "icons/icon_mixamo.png" 
@@ -224,11 +235,6 @@
     "icon": "icons/icon_booking.svg" 
   },
   {
-    "title": "КиноПоиск",
-    "url": "https://www.kinopoisk.ru",
-    "icon": "icons/icon_kino_poisk.svg" 
-  },
-  {
     "title": "AppMagic",
     "url": "https://appmagic.rocks",
     "icon": "icons/icon_app_magic.svg",
@@ -238,6 +244,12 @@
     "title": "App2Top",
     "url": "https://www.app2top.ru",
     "icon": "icons/icon_app2top.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "Domain.com",
+    "url": "https://www.domain.com",
+    "icon": "icons/icon_domain_com.svg",
     "mobileOnly": true
   }
 ]
