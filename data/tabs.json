@@ -62,12 +62,6 @@
     "icon": "icons/icon_google_sheets.svg" 
   },
   {
-    "title": "Bitbucket",
-    "url": "https://bitbucket.org/hyper-carrot",
-    "icon": "icons/icon_bitbucket.svg",
-    "mobileOnly": true
-  },
-  {
     "title": "Jira",
     "url": "https://hypercarrot.atlassian.net/jira/dashboards/10001",
     "icon": "icons/icon_jira.svg",
@@ -77,6 +71,18 @@
     "title": "Confluence",
     "url": "https://hypercarrot.atlassian.net/wiki/spaces/HYPERCARRO/overview",
     "icon": "icons/icon_confluence.svg" 
+  },
+  {
+    "title": "Bitbucket",
+    "url": "https://bitbucket.org/hyper-carrot",
+    "icon": "icons/icon_bitbucket.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "Github",
+    "url": "https://github.com/MaxDerevyagin/",
+    "icon": "icons/icon_github.svg",
+    "mobileOnly": true
   },
   {
     "title": "Developer Console",
@@ -128,6 +134,12 @@
     "mobileOnly": true
   },
   {
+    "title": "AppsFlyer",
+    "url": "https://hq1.appsflyer.com/unified-ltv/dashboard#appIds=com.hypercarrot.catfarm",
+    "icon": "icons/icon_apps_flyer.svg",
+    "mobileOnly": true
+  },
+  {
     "title": "Firebase Console",
     "url": "https://console.firebase.google.com",
     "icon": "icons/icon_firebase.svg",
@@ -172,6 +184,12 @@
     "title": "Magnific AI",
     "url": "https://magnific.ai",
     "icon": "icons/icon_magnific.png",
+    "mobileOnly": true
+  },
+  {
+    "title": "Vectorizer.AI",
+    "url": "https://vectorizer.ai",
+    "icon": "icons/icon_vectorizer.svg",
     "mobileOnly": true
   },
   {
