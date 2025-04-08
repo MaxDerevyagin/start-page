@@ -56,7 +56,7 @@ body::before {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(9, 1fr);
+  grid-template-columns: repeat(10, 1fr);
   gap: 20px 30px;
   max-width: 1000px;
   justify-content: center;
