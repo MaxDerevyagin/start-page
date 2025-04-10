@@ -269,5 +269,11 @@
     "url": "https://www.domain.com",
     "icon": "icons/icon_domain_com.svg",
     "mobileOnly": true
+  },
+  {
+    "title": "HyperCarrot",
+    "url": "https://maxderevyagin.github.io/hyper-carrot/",
+    "icon": "icons/icon_hyper_carrot.svg",
+    "mobileOnly": true
   }
 ]
