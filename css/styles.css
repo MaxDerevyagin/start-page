@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 30px;
   font-family: sans-serif;
   font-size: 14px;
   display: flex;
@@ -56,13 +56,15 @@ body::before {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  /*grid-template-columns: repeat(10, 1fr);*/
   gap: 20px 30px;
-  max-width: 1000px;
+  width: 95%;
+  max-width: calc(90px * 10 + 30px * 9);
   justify-content: center;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   body {
     display: block;
     font-size: 13px;
@@ -71,7 +73,22 @@ body::before {
   }
 
   .grid {
+    grid-template-columns: repeat(6, 1fr);
+    width: 100%;
+    max-width: 768px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    display: block;
+    font-size: 13px;
+    min-height: 0;
+  }
+
+  .grid {
     grid-template-columns: repeat(4, 1fr);
+    width: 100%;
     max-width: 430px;
     gap: 12px 25px;
   }
