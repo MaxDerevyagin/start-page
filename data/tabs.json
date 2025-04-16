@@ -273,12 +273,12 @@
   {
     "title": "RTA School",
     "url": "https://elearning.bdc.ae",
-    "icon": "icons/icon_rta.svg",
-    "mobileOnly": true
+    "icon": "icons/icon_rta.svg"
   },
   {
     "title": "HyperCarrot",
     "url": "https://hypercarrot.studio",
-    "icon": "icons/icon_hyper_carrot.svg"
+    "icon": "icons/icon_hyper_carrot.svg",
+    "mobileOnly": false
   }
 ]
