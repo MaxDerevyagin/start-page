@@ -279,6 +279,6 @@
     "title": "HyperCarrot",
     "url": "https://hypercarrot.studio",
     "icon": "icons/icon_hyper_carrot.svg",
-    "mobileOnly": false
+    "mobileOnly": true
   }
 ]
