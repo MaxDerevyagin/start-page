@@ -133,6 +133,12 @@
     "mobileOnly": true
   },
   {
+    "title": "Unity Cloud",
+    "url": "https://cloud.unity.com/home/organizations/1949492/projects/eefb1065-366f-472f-8997-656437da331d",
+    "icon": "icons/icon_unity_cloud.svg",
+    "mobileOnly": true
+  },
+  {
     "title": "Game Analytics",
     "url": "https://go.gameanalytics.com/game/118237/realtime",
     "icon": "icons/icon_game_analytics.svg",
