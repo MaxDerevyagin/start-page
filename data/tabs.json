@@ -245,6 +245,12 @@
     "mobileOnly": true
   },
   {
+    "title": "Т-Банк",
+    "url": "https://www.tbank.ru/login/",
+    "icon": "icons/icon_tbank.svg",
+    "mobileOnly": true
+  },
+  {
     "title": "Сбербанк Онлайн",
     "url": "http://www.sberbank.ru",
     "icon": "icons/icon_sber_bank.svg",
