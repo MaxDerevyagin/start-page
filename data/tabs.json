@@ -216,6 +216,12 @@
     "mobileOnly": true
   },
   {
+    "title": "SUNO",
+    "url": "https://suno.com",
+    "icon": "icons/icon_suno.png",
+    "mobileOnly": true
+  },
+  {
     "title": "Figma",
     "url": "https://www.figma.com",
     "icon": "icons/icon_figma.svg" 
