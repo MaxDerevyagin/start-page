@@ -158,6 +158,12 @@
     "mobileOnly": true
   },
   {
+    "title": "AppLovin",
+    "url": "https://www.applovin.com",
+    "icon": "icons/icon_applovin.svg",
+    "mobileOnly": true
+  },
+  {
     "title": "Meta for Developers",
     "url": "https://developers.facebook.com/",
     "icon": "icons/icon_meta_developers.svg",
