@@ -224,8 +224,7 @@
   {
     "title": "SUNO",
     "url": "https://suno.com",
-    "icon": "icons/icon_suno.svg",
-    "mobileOnly": true
+    "icon": "icons/icon_suno.svg"
   },
   {
     "title": "Figma",
