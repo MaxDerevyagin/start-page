@@ -79,6 +79,18 @@ body::before {
   }
 }
 
+@media (max-width: 540px) {
+  body {
+    font-size: 15px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+    max-width: 530px;
+  }
+}
+
 @media (max-width: 480px) {
   body {
     display: block;
