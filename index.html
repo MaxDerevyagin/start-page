@@ -16,11 +16,11 @@
         const response = await fetch('data/tabs.json');
         const tabs = await response.json();
         const grid = document.getElementById('grid');
-        const isIphone = navigator.userAgent.includes('iPhone');
+        const isMobile = window.matchMedia('(max-width: 480px)').matches;
 
         tabs.forEach(tab => 
         {
-          if (isIphone && !tab.mobileOnly)
+          if (isMobile && !tab.mobileOnly)
           {
             return;
           }
