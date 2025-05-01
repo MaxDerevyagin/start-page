@@ -170,6 +170,11 @@
     "mobileOnly": true
   },
   {
+    "title": "Meta Ads Manager",
+    "url": "https://adsmanager.facebook.com/",
+    "icon": "icons/icon_ads_manager.png"
+  },
+  {
     "title": "TeamCity",
     "url": "https://hypercarrot.ngrok.dev",
     "icon": "icons/icon_team_city.svg",
