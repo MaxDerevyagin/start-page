@@ -164,15 +164,15 @@
     "mobileOnly": true
   },
   {
+    "title": "Meta Ads Manager",
+    "url": "https://adsmanager.facebook.com/",
+    "icon": "icons/icon_ads_manager.png"
+  },
+  {
     "title": "Meta for Developers",
     "url": "https://developers.facebook.com/",
     "icon": "icons/icon_meta_developers.svg",
     "mobileOnly": true
-  },
-  {
-    "title": "Meta Ads Manager",
-    "url": "https://adsmanager.facebook.com/",
-    "icon": "icons/icon_ads_manager.png"
   },
   {
     "title": "TeamCity",
