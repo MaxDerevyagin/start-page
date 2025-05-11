@@ -209,6 +209,12 @@
     "mobileOnly": true
   },
   {
+    "title": "RunComfy",
+    "url": "https://www.runcomfy.com",
+    "icon": "icons/icon_run_comfy.svg",
+    "mobileOnly": true
+  },
+  {
     "title": "Midjourney",
     "url": "https://www.midjourney.com/app/",
     "icon": "icons/icon_midjourney.svg",
