@@ -203,6 +203,12 @@
     "icon": "icons/icon_grok.svg" 
   },
   {
+    "title": "Krea AI",
+    "url": "https://www.krea.ai",
+    "icon": "icons/icon_krea.svg",
+    "mobileOnly": true
+  },
+  {
     "title": "Midjourney",
     "url": "https://www.midjourney.com/app/",
     "icon": "icons/icon_midjourney.svg",
