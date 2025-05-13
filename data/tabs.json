@@ -209,6 +209,12 @@
     "mobileOnly": true
   },
   {
+    "title": "CivitAI",
+    "url": "https://www.civitai.com",
+    "icon": "icons/icon_civitai.svg",
+    "mobileOnly": true
+  },
+  {
     "title": "Midjourney",
     "url": "https://www.midjourney.com/app/",
     "icon": "icons/icon_midjourney.svg",
