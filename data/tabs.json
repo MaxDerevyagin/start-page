@@ -45,6 +45,12 @@
     "url": "https://www.kinopoisk.ru",
     "icon": "icons/icon_kino_poisk.svg" 
   },
+  {
+    "title": "HyperCarrot",
+    "url": "https://hypercarrot.studio",
+    "icon": "icons/icon_hyper_carrot.svg",
+    "mobileOnly": true
+  },
 
   {
     "title": "Google Drive",
@@ -148,6 +154,11 @@
     "mobileOnly": true
   },
   {
+    "title": "Figma",
+    "url": "https://www.figma.com",
+    "icon": "icons/icon_figma.svg"
+  },
+  {
     "title": "TeamCity",
     "url": "https://hypercarrot.ngrok.dev",
     "icon": "icons/icon_team_city.svg",
@@ -168,6 +179,11 @@
     "title": "Grok",
     "url": "https://grok.com",
     "icon": "icons/icon_grok.svg" 
+  },
+  {
+    "title": "Google AI Studio",
+    "url": "https://aistudio.google.com",
+    "icon": "icons/gemeni.png"
   },
   {
     "title": "Krea AI",
@@ -191,11 +207,6 @@
     "title": "SUNO",
     "url": "https://suno.com",
     "icon": "icons/icon_suno.svg"
-  },
-  {
-    "title": "Figma",
-    "url": "https://www.figma.com",
-    "icon": "icons/icon_figma.svg" 
   },
   {
     "title": "Mixamo",
@@ -269,11 +280,5 @@
     "title": "RTA School",
     "url": "https://elearning.bdc.ae",
     "icon": "icons/icon_rta.svg"
-  },
-  {
-    "title": "HyperCarrot",
-    "url": "https://hypercarrot.studio",
-    "icon": "icons/icon_hyper_carrot.svg",
-    "mobileOnly": true
   }
 ]
