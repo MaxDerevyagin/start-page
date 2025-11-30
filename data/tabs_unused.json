@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Discord",
+    "url": "https://discord.com",
+    "icon": "icons/icon_discord.svg"
+  },
+  {
+    "title": "AdMob",
+    "url": "https://admob.google.com",
+    "icon": "icons/icon_admob.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "IronSource",
+    "url": "https://platform.ironsrc.com",
+    "icon": "icons/icon_ironsource.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "Meta Ads Manager",
+    "url": "https://adsmanager.facebook.com/",
+    "icon": "icons/icon_ads_manager.png"
+  },
+  {
+    "title": "TestRail",
+    "url": "https://hypercarrot.testrail.io",
+    "icon": "icons/icon_test_rail.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "RunComfy",
+    "url": "https://www.runcomfy.com",
+    "icon": "icons/icon_run_comfy.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "CivitAI",
+    "url": "https://www.civitai.com",
+    "icon": "icons/icon_civitai.svg",
+    "mobileOnly": true
+  },
+  {
+    "title": "Magnific AI",
+    "url": "https://magnific.ai",
+    "icon": "icons/icon_magnific.png",
+    "mobileOnly": true
+  },
+  {
+    "title": "Vectorizer.AI",
+    "url": "https://vectorizer.ai",
+    "icon": "icons/icon_vectorizer.svg",
+    "mobileOnly": true
+  }
+]
